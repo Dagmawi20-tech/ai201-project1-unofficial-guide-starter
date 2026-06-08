@@ -1,0 +1,5 @@
+# SOURCE: see planning.md for URL
+# FORMAT: one review per paragraph, blank line between each
+# Each review: [X/5] review text here
+# Delete this header block before running ingest.py
+

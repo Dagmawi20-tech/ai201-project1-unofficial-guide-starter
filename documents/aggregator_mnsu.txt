@@ -1,0 +1,100 @@
+Professor: Suboh Alkhushayni
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Information Technology
+Helpful Score: 2.7
+Easy Score: 4.3
+Clarity Score: 2.7
+Professor: Mansoor Naseef
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Electrical Engineering
+Helpful Score: 3.4
+Easy Score: 3.5
+Clarity Score: 3.4
+Professor: Whitney Gent
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Communication Studies
+Helpful Score: 3.2
+Easy Score: 3
+Clarity Score: 3.2
+Professor: Michael Hart
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Information Technology
+Helpful Score: 4.4
+Easy Score: 3.7
+Clarity Score: 4.4
+Professor: Jenn Tiernan
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Mass Communications
+Helpful Score: 3.2
+Easy Score: 2.8
+Clarity Score: 3.2
+Professor: Maheshika Palihawadana
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Physics
+Helpful Score: 2.3
+Easy Score: 4.1
+Clarity Score: 2.3
+Professor: Dillon White
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Business Law
+Helpful Score: 4.9
+Easy Score: 2.9
+Clarity Score: 4.9
+Professor: Iresha Premarathna
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Mathematics amp Statistics
+Helpful Score: 3.7
+Easy Score: 3.5
+Clarity Score: 3.7
+Professor: Emily Forsyth
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Community Health Sciences
+Helpful Score: 2.4
+Easy Score: 3.7
+Clarity Score: 2.4
+Professor: Kyung Il Lee
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Mathematics
+Helpful Score: 3.6
+Easy Score: 3.5
+Clarity Score: 3.6
+Professor: Connie O'Brien
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Accounting
+Helpful Score: 1.1
+Easy Score: 4.4
+Clarity Score: 1.1
+Professor: Shaheen Ahmed
+School: Minnesota State University, Mankato
+City: Mankato
+State: Minnesota
+Department: Mechanical Engineering
+Helpful Score: 2.6
+Easy Score: 4.5
+Clarity Score: 2.6
+
+
+
+
